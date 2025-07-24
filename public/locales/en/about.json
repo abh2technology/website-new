@@ -1,0 +1,137 @@
+{
+  "overview": {
+    "hero": {
+      "title": "About ABH2 Technologies",
+      "description": "A global leader in cybersecurity solutions, protecting organizations worldwide through innovation and expertise."
+    },
+    "company": {
+      "title": "Securing Tomorrow's Digital World",
+      "description": "Founded in 2020, ABH2 Technologies has rapidly emerged as a leading force in cybersecurity, delivering innovative solutions that protect organizations from evolving digital threats.",
+      "stats": {
+        "clients": "Enterprise Clients",
+        "countries": "Countries Served",
+        "experts": "Security Experts",
+        "support": "Support Coverage"
+      }
+    },
+    "global": {
+      "title": "Global Presence",
+      "description": "With offices across major technology hubs and a worldwide partner network, we deliver security solutions on a global scale.",
+      "regions": {
+        "northAmerica": "North America",
+        "europe": "Europe",
+        "asiaPacific": "Asia Pacific"
+      }
+    },
+    "recognition": {
+      "title": "Industry Recognition",
+      "description": "Our commitment to excellence has earned us recognition from leading industry analysts and organizations.",
+      "award": {
+        "title": "Industry Award",
+        "description": "Recognition for excellence in cybersecurity innovation and service delivery."
+      }
+    }
+  },
+  "values": {
+    "hero": {
+      "title": "Our Values",
+      "description": "The core principles that guide our mission to secure the digital world."
+    },
+    "coreValues": {
+      "security": {
+        "title": "Security First",
+        "description": "We prioritize security in everything we do, ensuring our clients' assets are protected against evolving threats."
+      },
+      "partnership": {
+        "title": "Client Partnership",
+        "description": "We build lasting relationships with our clients, understanding their unique needs and delivering tailored solutions."
+      },
+      "innovation": {
+        "title": "Innovation",
+        "description": "We continuously innovate and adapt to stay ahead of emerging threats and technological advances."
+      },
+      "excellence": {
+        "title": "Excellence",
+        "description": "We strive for excellence in every aspect of our work, from solution development to customer service."
+      },
+      "integrity": {
+        "title": "Integrity",
+        "description": "We conduct our business with the highest standards of integrity and ethical behavior."
+      },
+      "impact": {
+        "title": "Global Impact",
+        "description": "We work to make a positive impact on global cybersecurity, protecting organizations worldwide."
+      }
+    },
+    "mission": {
+      "title": "Our Mission",
+      "description": "To secure the digital future by providing innovative cybersecurity solutions that protect organizations and enable their growth in an increasingly connected world.",
+      "pillars": {
+        "protect": {
+          "title": "Protect",
+          "description": "Safeguarding digital assets and infrastructure"
+        },
+        "innovate": {
+          "title": "Innovate",
+          "description": "Advancing security technology"
+        },
+        "enable": {
+          "title": "Enable",
+          "description": "Empowering digital transformation"
+        }
+      }
+    }
+  },
+  "people": {
+    "hero": {
+      "title": "Our People",
+      "description": "Meet the team driving innovation in cybersecurity and protecting organizations worldwide."
+    },
+    "leadership": {
+      "title": "Executive Leadership",
+      "executives": {
+        "ceo": {
+          "name": "John Smith",
+          "title": "Chief Executive Officer",
+          "bio": "20+ years of experience in cybersecurity and technology leadership."
+        },
+        "cto": {
+          "name": "Sarah Johnson",
+          "title": "Chief Technology Officer",
+          "bio": "Leading innovation in security technology and product development."
+        },
+        "cso": {
+          "name": "Michael Chen",
+          "title": "Chief Security Officer",
+          "bio": "Expert in enterprise security and threat prevention."
+        }
+      }
+    },
+    "culture": {
+      "title": "Our Culture",
+      "description": "We foster an environment of innovation, collaboration, and continuous learning.",
+      "values": {
+        "innovation": {
+          "title": "Innovation First",
+          "description": "We encourage creative thinking and new approaches to security challenges."
+        },
+        "collaboration": {
+          "title": "Collaborative Spirit",
+          "description": "We work together across teams to deliver the best solutions for our clients."
+        },
+        "learning": {
+          "title": "Continuous Learning",
+          "description": "We invest in our people's growth and professional development."
+        }
+      }
+    },
+    "joinUs": {
+      "title": "Join Our Team",
+      "description": "We're always looking for talented individuals who share our passion for cybersecurity and innovation.",
+      "buttons": {
+        "positions": "View Open Positions",
+        "culture": "Learn About Our Culture"
+      }
+    }
+  }
+}

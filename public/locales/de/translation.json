@@ -1,0 +1,27 @@
+{
+  "nav": {
+    "company": "Unternehmen",
+    "products": "Produkte",
+    "services": "Dienstleistungen",
+    "industries": "Branchen",
+    "insights": "Einblicke",
+    "partners": "Partner",
+    "careers": "Karriere"
+  },
+  "header": {
+    "search": "Suchen",
+    "language": "Sprache"
+  },
+  "footer": {
+    "mainNav": "Hauptnavigation",
+    "resources": "Ressourcen",
+    "legal": "Recht und Compliance",
+    "subscribe": {
+      "title": "Bleiben Sie Informiert",
+      "description": "Abonnieren Sie unseren Newsletter für Updates und Einblicke.",
+      "button": "Abonnieren",
+      "placeholder": "Ihre E-Mail-Adresse"
+    },
+    "copyright": "© {{year}} ABH2 Technologies Inc. Alle Rechte vorbehalten."
+  }
+}

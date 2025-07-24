@@ -1,0 +1,137 @@
+{
+  "overview": {
+    "hero": {
+      "title": "Sobre ABH2 Technologies",
+      "description": "Un líder global en soluciones de ciberseguridad, protegiendo organizaciones en todo el mundo a través de la innovación y la experiencia."
+    },
+    "company": {
+      "title": "Asegurando el Mundo Digital del Mañana",
+      "description": "Fundada en 2020, ABH2 Technologies ha emergido rápidamente como una fuerza líder en ciberseguridad, entregando soluciones innovadoras que protegen a las organizaciones de amenazas digitales en evolución.",
+      "stats": {
+        "clients": "Clientes Empresariales",
+        "countries": "Países Atendidos",
+        "experts": "Expertos en Seguridad",
+        "support": "Cobertura de Soporte"
+      }
+    },
+    "global": {
+      "title": "Presencia Global",
+      "description": "Con oficinas en los principales centros tecnológicos y una red mundial de socios, entregamos soluciones de seguridad a escala global.",
+      "regions": {
+        "northAmerica": "América del Norte",
+        "europe": "Europa",
+        "asiaPacific": "Asia Pacífico"
+      }
+    },
+    "recognition": {
+      "title": "Reconocimiento de la Industria",
+      "description": "Nuestro compromiso con la excelencia nos ha valido el reconocimiento de los principales analistas y organizaciones de la industria.",
+      "award": {
+        "title": "Premio de la Industria",
+        "description": "Reconocimiento por la excelencia en innovación en ciberseguridad y prestación de servicios."
+      }
+    }
+  },
+  "values": {
+    "hero": {
+      "title": "Nuestros Valores",
+      "description": "Los principios fundamentales que guían nuestra misión de asegurar el mundo digital."
+    },
+    "coreValues": {
+      "security": {
+        "title": "Seguridad Primero",
+        "description": "Priorizamos la seguridad en todo lo que hacemos, asegurando que los activos de nuestros clientes estén protegidos contra amenazas en evolución."
+      },
+      "partnership": {
+        "title": "Asociación con el Cliente",
+        "description": "Construimos relaciones duraderas con nuestros clientes, entendiendo sus necesidades únicas y entregando soluciones personalizadas."
+      },
+      "innovation": {
+        "title": "Innovación",
+        "description": "Innovamos y nos adaptamos continuamente para mantenernos adelante de las amenazas emergentes y los avances tecnológicos."
+      },
+      "excellence": {
+        "title": "Excelencia",
+        "description": "Nos esforzamos por la excelencia en cada aspecto de nuestro trabajo, desde el desarrollo de soluciones hasta el servicio al cliente."
+      },
+      "integrity": {
+        "title": "Integridad",
+        "description": "Conducimos nuestro negocio con los más altos estándares de integridad y comportamiento ético."
+      },
+      "impact": {
+        "title": "Impacto Global",
+        "description": "Trabajamos para tener un impacto positivo en la ciberseguridad global, protegiendo organizaciones en todo el mundo."
+      }
+    },
+    "mission": {
+      "title": "Nuestra Misión",
+      "description": "Asegurar el futuro digital proporcionando soluciones innovadoras de ciberseguridad que protejan a las organizaciones y permitan su crecimiento en un mundo cada vez más conectado.",
+      "pillars": {
+        "protect": {
+          "title": "Proteger",
+          "description": "Salvaguardando activos e infraestructura digital"
+        },
+        "innovate": {
+          "title": "Innovar",
+          "description": "Avanzando la tecnología de seguridad"
+        },
+        "enable": {
+          "title": "Habilitar",
+          "description": "Potenciando la transformación digital"
+        }
+      }
+    }
+  },
+  "people": {
+    "hero": {
+      "title": "Nuestra Gente",
+      "description": "Conoce al equipo que impulsa la innovación en ciberseguridad y protege organizaciones en todo el mundo."
+    },
+    "leadership": {
+      "title": "Liderazgo Ejecutivo",
+      "executives": {
+        "ceo": {
+          "name": "John Smith",
+          "title": "Director Ejecutivo",
+          "bio": "Más de 20 años de experiencia en liderazgo en ciberseguridad y tecnología."
+        },
+        "cto": {
+          "name": "Sarah Johnson",
+          "title": "Directora de Tecnología",
+          "bio": "Liderando la innovación en tecnología de seguridad y desarrollo de productos."
+        },
+        "cso": {
+          "name": "Michael Chen",
+          "title": "Director de Seguridad",
+          "bio": "Experto en seguridad empresarial y prevención de amenazas."
+        }
+      }
+    },
+    "culture": {
+      "title": "Nuestra Cultura",
+      "description": "Fomentamos un ambiente de innovación, colaboración y aprendizaje continuo.",
+      "values": {
+        "innovation": {
+          "title": "Innovación Primero",
+          "description": "Fomentamos el pensamiento creativo y nuevos enfoques para los desafíos de seguridad."
+        },
+        "collaboration": {
+          "title": "Espíritu Colaborativo",
+          "description": "Trabajamos juntos entre equipos para entregar las mejores soluciones para nuestros clientes."
+        },
+        "learning": {
+          "title": "Aprendizaje Continuo",
+          "description": "Invertimos en el crecimiento y desarrollo profesional de nuestra gente."
+        }
+      }
+    },
+    "joinUs": {
+      "title": "Únete a Nuestro Equipo",
+      "description": "Siempre estamos buscando personas talentosas que compartan nuestra pasión por la ciberseguridad y la innovación.",
+      "buttons": {
+        "positions": "Ver Posiciones Abiertas",
+        "culture": "Conoce Nuestra Cultura"
+      }
+    }
+  }
+}
